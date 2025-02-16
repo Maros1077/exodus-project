@@ -9,6 +9,9 @@ The Exodus project was born out of a desire to learn and experiment with technol
 | JSend library | [GitHub](https://github.com/Maros1077/exodus-jsend-network) | Network library shared across multiple components |
 | IAM | [GitHub](https://github.com/Maros1077/exodus-iam) | Identity Access Management microservice |
 | STS | TODO | Secure Token Service - work in progress |
+| Example App | TODO | An example application - work in progress |
+
+![](assets/exodus project arch.svg)
 
 ## Want to contribute?
 Feel free to contribute to any part of the project. Note, that I am not a developer (especially not for Java Spring apps) and I am working with a lot of technologies for the first time (that is the main reason for this project, right?), so I would appreciate also any form of feedback.

@@ -1,0 +1,28 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="WZsI6YhGvu39SFZlsG15">
+    <mxGraphModel dx="1034" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EN6mM6Pl9Ct12lstdhcs-1" target="EN6mM6Pl9Ct12lstdhcs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-1" value="Your App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD97D;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-2" value="Exodus project" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F76C5E;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="280" y="128.75" width="240" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-3" value="IAM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCC9C5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-4" value="STS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCC9C5;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EN6mM6Pl9Ct12lstdhcs-6" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FCC9C5;strokeColor=#F76C5E;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
