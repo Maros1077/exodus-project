@@ -8,7 +8,7 @@ The Exodus project was born out of a desire to learn and experiment with technol
 | --- | --- | --- |
 | JSend library | [GitHub](https://github.com/Maros1077/exodus-jsend-network) | Network library shared across multiple components |
 | IAM | [GitHub](https://github.com/Maros1077/exodus-iam) | Identity Access Management microservice |
-| STS | TODO | Secure Token Service - work in progress |
+| STS | [GitHub](https://github.com/Maros1077/exodus-sts) | Secure Token Service |
 | Example App | TODO | An example application - work in progress |
 
 ![Example architecture](assets/exodus_project_arch.png)
